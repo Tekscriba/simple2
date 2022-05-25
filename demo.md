@@ -4,6 +4,6 @@ This is the second line!
 
 And the third, from the master.
 
-And a final fourth line. This is it.
+And a final fourth line. This is it. I mean it.
 
 Right now I'm in the middle of working on this file.
