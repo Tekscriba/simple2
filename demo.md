@@ -4,6 +4,6 @@ This is the second line!
 
 And the third, from the master.
 
-And a final fourth line. This is it. I mean it.
+And a final fourth line on the main branch.
 
 Right now I'm in the middle of working on this file.
